@@ -5,6 +5,7 @@ Table of contents
 1. [PrivateChain](#privatechain)
 1. [MainChain](#mainchain)
 1. [Bridge Protocol](#bridge-protocol)
+1. [Token economy](#token-economy)
 
 
 # Introduction
@@ -220,3 +221,9 @@ To verify that a merchant has paid for a transaction, a peer needs to do the fol
 2. The commitment transaction must contains exactly the public key of the merchant and the ID of the private chain.
 
 3. Assuming that the commitment transaction contains enough fee to pay for **X** transactions, there are less than **X** transactions with the same commitment ID in the private chain. 
+
+# Token economy
+
+![economy](asserts/econ.png)
+
+TBD

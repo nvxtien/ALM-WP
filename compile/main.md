@@ -3,3 +3,4 @@
 #include "../../ALMgithub/ALM-WP.wiki/pages/Privatechain.md"
 #include "../../ALMgithub/ALM-WP.wiki/pages/Mainchain.md"
 #include "../../ALMgithub/ALM-WP.wiki/pages/Bridge.md"
+#include "../../ALMgithub/ALM-WP.wiki/pages/Economy.md"
