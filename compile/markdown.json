@@ -1,0 +1,4 @@
+{
+	"build" : "../whitepaper.md",
+	"files" : ["main.md"]
+}

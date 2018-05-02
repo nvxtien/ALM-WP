@@ -1,0 +1,23 @@
+{
+  "name": "alm-wp",
+  "version": "1.0.0",
+  "description": "ALM whitepaper",
+  "main": "index.js",
+  "dependencies": {
+    "markdown-include": "^0.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akaminds/ALM-WP.git"
+  },
+  "author": "Long Nguyen",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Akaminds/ALM-WP/issues"
+  },
+  "homepage": "https://github.com/Akaminds/ALM-WP#readme"
+}
