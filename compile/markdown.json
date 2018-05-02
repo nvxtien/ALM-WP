@@ -1,4 +1,4 @@
 {
-	"build" : "../whitepaper.md",
+	"build" : "../README.md",
 	"files" : ["main.md"]
 }
