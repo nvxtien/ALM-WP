@@ -228,4 +228,15 @@ To verify that a merchant has paid for a transaction, a peer needs to do the fol
 
 ![economy](asserts/econ.png)
 
-TBD
+As we defien earlier this whitepaper, we have two kind of cryptographic token, FCoin and FToken. FCoin is used to pay for every transaction happening in the private chain. FToken is used for ICO sale. The person who is the holder of FToken has a chance of getting FToken reward.
+
+Every year, the system extracts an amount of the total of FCoin transaction fee which it has been received to reward FToken holder.
+We define:
+**T**: the total of FCoin transaction fee
+**R**: the amount of FCoin would be rewarded
+**p**: the rate of reward, **0** < **p** < **1**
+We have:
+**R** **=** **p** **x** **T**
+
+
+
