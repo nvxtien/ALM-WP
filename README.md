@@ -234,27 +234,27 @@ Every year, the system extracts an amount of the total of FCoin transaction fee 
 
 We define:
 
-**T**: the total of FCoin transaction fee
+  **T**: the total of FCoin transaction fee
 
-**R**: the amount of FCoin would be rewarded
+  **R**: the amount of FCoin would be rewarded
 
-**p**: the rate of reward, **0** < **p** < **1**
+  **p**: the rate of reward, **0** < **p** < **1**
 
 We have:
 
-**R** **=** **p** * **T**
+  **R** **=** **p** * **T**
 
 For the FToken holders, the FCoin reward they would recevie based on how many FToken they hold.
 
 We define:
-**f**: the amount of FToken which the holder keeps in her wallet
+  **f**: the amount of FToken which the holder keeps in her wallet
 
-**F**: the total of FToken issued in ICO
+  **F**: the total of FToken issued in ICO
 
-**rand**: a randomness number, **0** **<** **rand** **<** **0**  
+  **rand**: a randomness number, **0** **<** **rand** **<** **0**  
 
-**h**: The FCoin reward the holder would receive
+  **h**: The FCoin reward the holder would receive
 
 We have:
 
-**h** **=** **(** **f** **/** **F**) * **rand** * **R**
+  **h** **=** **(** **f** **/** **F**) * **rand** * **R**
