@@ -244,5 +244,17 @@ We have:
 
 **R** **=** **p** **x** **T**
 
+For the FToken holders, the FCoin reward they would recevie based on how many FToken they hold.
 
+We define:
+**f**: the amount of FToken which the holder keeps in her wallet
 
+**F**: the total of FToken issued in ICO
+
+**rand**: a randomness number, **0** **<** **rand** **<** **0**  
+
+**h**: The FCoin reward the holder would receive
+
+We have:
+
+**h** **=** **(** **f** **/** **F**) **x** **rand** **R**
