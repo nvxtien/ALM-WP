@@ -242,7 +242,7 @@ We define:
 
 We have:
 
-**R** **=** **p** **x** **T**
+**R** **=** **p** ***** **T**
 
 For the FToken holders, the FCoin reward they would recevie based on how many FToken they hold.
 
@@ -257,4 +257,4 @@ We define:
 
 We have:
 
-**h** **=** **(** **f** **/** **F**) **x** **rand** **R**
+**h** **=** **(** **f** **/** **F**) ***** **rand** ***** **R**
